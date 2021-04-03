@@ -1,2 +1,2 @@
 # OrderbyHunter
-一款辅助发现Orderby注入漏洞的BurpSuite插件，python编写，适用于上xray等扫描器被ban的场景
+一款辅助发现Orderby注入漏洞的BurpSuite插件，Python3编写，适用于上xray等扫描器被ban的场景
