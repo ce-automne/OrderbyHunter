@@ -1,5 +1,5 @@
 # OrderbyHunter
-一款辅助探测Orderby注入漏洞的BurpSuite插件，Python3编写，适用于上xray等扫描器被ban的场景
+一款辅助探测Orderby注入漏洞的BurpSuite插件，Python3编写
 
 #### 1. 支持Get/Post型请求参数的探测，被动探测，对于存在Orderby注入的请求将会在HTTP Histroy里标红
 
